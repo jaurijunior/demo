@@ -10,8 +10,5 @@
       {"id":8, "nome":"Andreea", "endereco":"Quadra Quadra 3, 313"},
       {"id":9, "nome":"Stephany", "endereco":"Quadra SQN 214 Bloco K, 854"},
       {"id":10, "nome":"Evan", "endereco":"Rua São Tiago, 333"}
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
